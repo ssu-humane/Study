@@ -7,6 +7,7 @@
 - 각 책에 대한 세부사항은 해당  디렉토리에 있습니다.
 
 |날짜|제목|학습 내용|
+|----|----|----|
 |220225|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|BERT 논문|
 |220211 ~ 220218|Attention is All you Need|Transformer 논문|
 |220114 ~ 220204|Efficient Estimation of Word Representations in Vector space, Distributed Representations of Words and Phrases and their Compositionality|word2vec 코드 구현|
