@@ -11,7 +11,7 @@
 |220225|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)|BERT 논문|
 |220218|[The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)|Transformer 코드 분석|
 |220211|[Attention is All you Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)|Transformer 논문|
-|220114 - 220204|E|word2vec 코드 구현|
+|220114 - 220204||word2vec 코드 구현|
 |220107|[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)|word2vec 논문|
 |211231|[Efficient Estimation of Word Representations in Vector space](https://arxiv.org/pdf/1301.3781.pdf)|word2vec 논문|
 |211105 - 211203|[파이토치로 배우는 자연어 처리](https://github.com/ssu-humane/Study/tree/main/%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC)|pytorch를 사용한 자연어 처리 기법|
