@@ -9,7 +9,8 @@
 |날짜|제목|학습 내용|
 |----|----|----|
 |220225|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|BERT 논문|
-|220211 - 220218|Attention is All you Need|Transformer 논문|
+|220218|Attention is All you Need|Transformer 코드 분석|
+|220211|Attention is All you Need|Transformer 논문|
 |220114 - 220204|Efficient Estimation of Word Representations in Vector space, Distributed Representations of Words and Phrases and their Compositionality|word2vec 코드 구현|
 |220107|Distributed Representations of Words and Phrases and their Compositionality|word2vec 논문|
 |211231|Efficient Estimation of Word Representations in Vector space|word2vec 논문|
