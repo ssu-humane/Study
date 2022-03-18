@@ -8,11 +8,11 @@ NLP의 기초 신경망 구조에 대한 논문을 읽고 각 신경망 방법�
      - 모든 랩원이 논문 읽기/ 코드 분석을 하고 스터디에 참여하며, 랜덤으로 발표자를 뽑아 진행
 <br>
 
-|날짜|제목|학습 내용|
-|----|----|----|
-|220225|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)|BERT 논문|
-|220218|[The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)|Transformer 코드 분석|
-|220211|[Attention is All you Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)|Transformer 논문|
-|220114 - 220204||word2vec 코드 구현|
-|220107|[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)|word2vec 논문|
-|211231|[Efficient Estimation of Word Representations in Vector space](https://arxiv.org/pdf/1301.3781.pdf)|word2vec 논문|
+|날짜|제목|발행 년도|학습 내용|
+|----|----|----|----|
+|220225|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)|2019-05-24|BERT 논문|
+|220218|[The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)||Transformer 코드 분석|
+|220211|[Attention is All you Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)|2017-12-06|Transformer 논문|
+|220114 - 220204|||word2vec 코드 구현|
+|220107|[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)|2013-10-16|word2vec 논문|
+|211231|[Efficient Estimation of Word Representations in Vector space](https://arxiv.org/pdf/1301.3781.pdf)|2013-09-07|word2vec 논문|
