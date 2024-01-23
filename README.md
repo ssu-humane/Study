@@ -8,8 +8,8 @@
 
 |날짜|제목|학습 내용|
 |----|----|----|
-|240102 - 240229|[24년 동계 자연어처리 입문](https://github.com/ssu-humane/Study/tree/main/23%EB%85%84%20%ED%95%98%EA%B3%84%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20%EC%9E%85%EB%AC%B8/)|[동계 인턴생] 파이토치로 배우는 자연어 처리|
-|240102 - 240229|[24년 동계 허깅페이스 입문](https://github.com/ssu-humane/Study/tree/main/23%EB%85%84%20%ED%95%98%EA%B3%84%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20%EC%9E%85%EB%AC%B8/)|[동계 인턴생] 트랜스포머를 활용한 자연어 처리 |
+|240102 - 240229|[24년 동계 자연어처리 입문](https://github.com/ssu-humane/Study/tree/main/%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC)|[동계 인턴생] 파이토치로 배우는 자연어 처리|
+|240102 - 240229|[24년 동계 허깅페이스 입문](https://github.com/ssu-humane/Study/tree/main/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC)|[동계 인턴생] 트랜스포머를 활용한 자연어 처리 |
 |230701 - 230831|[23년 하계 자연어처리 입문](https://github.com/ssu-humane/Study/tree/main/23%EB%85%84%20%ED%95%98%EA%B3%84%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20%EC%9E%85%EB%AC%B8/)|[하계 인턴생] 딥러닝을 사용한 자연어 처리 입문 |
 |220117 - 230223|[22년 동계 자연어처리 입문](https://github.com/ssu-humane/Study/tree/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20%EC%9E%85%EB%AC%B8)|[하계 인턴생] 딥러닝을 사용한 자연어 처리 입문 |
 |230117 - 230223|[딥러닝을 이용한 자연어 처리 입문](https://github.com/ssu-humane/Study/tree/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20%EC%9E%85%EB%AC%B8)|[동계 인턴생] 딥러닝을 사용한 자연어 처리 입문 |
