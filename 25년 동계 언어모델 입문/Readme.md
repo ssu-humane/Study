@@ -1,6 +1,7 @@
 Stanford CS 324
 ============================
 <br><br>
+Lecture
 |주차|날짜|내용|발표자|
 |------|---|---|---|
 |1|241227|Introduction, Capabilities|박현빈|
@@ -8,6 +9,7 @@ Stanford CS 324
 <br>
 
 <br><br>
+Discussion Paper
 |주차|날짜|내용|발표자|
 |------|---|---|---|
 |1|241227|On the Opportunities and Risks of Foundation Models|최종현|
