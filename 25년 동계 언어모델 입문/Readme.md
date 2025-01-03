@@ -12,6 +12,6 @@ Stanford CS 324
 |------|---|---|---|
 |1|241227|On the Opportunities and Risks of Foundation Models|최종현|
 |2|250103|REALTOXICITYPROMPTS:Evaluating Neural Toxic Degeneration in Language Modles|고경빈|
-|2|250103|On the Dangers of Stochastic Parrots:Can Language Models Be too Big?|김태균|
+|2|250103|On the Dangers of Stochastic Parrots:Can Language Models Be too Big?|김태균|
 <br>
 
