@@ -9,6 +9,7 @@ Lecture
 |3|[250110](https://github.com/ssu-humane/Study/blob/main/25%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%20%EC%9E%85%EB%AC%B8/Lecture/20250110_CS324_Data%2C%20Legal%20Considerations_%EA%B9%80%ED%83%9C%EA%B7%A0.pdf)|[Data, Legal considerations](https://stanford-cs324.github.io/winter2022/lectures/data/)|김태균|
 |4|[250117](https://github.com/ssu-humane/Study/blob/main/25%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%20%EC%9E%85%EB%AC%B8/Lecture/20250117_CS324_Modeling_Training_%EA%B9%80%EA%B1%B4%EC%88%98.pdf)|[Modeling, Training](https://stanford-cs324.github.io/winter2022/lectures/modeling/)|김건수|
 |6|[250131](https://github.com/ssu-humane/Study/blob/main/25%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%20%EC%9E%85%EB%AC%B8/Lecture/20250131_CS324_Modular%20architectures_%EA%B9%80%ED%83%9C%EA%B7%A0.pdf)|[Modular architectures](https://stanford-cs324.github.io/winter2022/lectures/selective-architectures/)|김태균|
+|6|[250207](https://github.com/ssu-humane/Study/blob/main/25%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%20%EC%9E%85%EB%AC%B8/Lecture/20250207_CS324_Adaptation_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%90%E1%85%A2%E1%84%80%E1%85%B2%E1%86%AB.pdf)|[Adaptation](https://stanford-cs324.github.io/winter2022/lectures/adaptation/)|김태균|
 <br>
 
 <br><br>
