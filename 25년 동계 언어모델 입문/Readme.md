@@ -29,5 +29,7 @@ Discussion Paper
 |8|[250228](https://github.com/ssu-humane/Study/blob/main/25%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%20%EC%9E%85%EB%AC%B8/Discussion%20paper/20250228_Orca%2C%20Progressive%20Learning%20from%20Complex%20Explanation%20Traces%20of%20GPT-4_%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A7%E1%86%AB%E1%84%87%E1%85%B5%E1%86%AB.pdf)|[Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)|박현빈|
 |9|[250307](https://github.com/ssu-humane/Study/blob/main/25%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%20%EC%9E%85%EB%AC%B8/Discussion%20paper/20250306_LoRA_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB.pdf)|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)|최종현|
 |9|[250307](https://github.com/ssu-humane/Study/blob/main/25%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%20%EC%9E%85%EB%AC%B8/Discussion%20paper/20250306_QLoRA_%E1%84%92%E1%85%A5%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%89%E1%85%A5.pdf)|[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)|허윤서|
+|10|[250314](https://github.com/ssu-humane/Study/blob/main/25%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%20%EC%9E%85%EB%AC%B8/Discussion%20paper/20250314_InstructGPT_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB.pdf)|[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)|최종현|
 <br>
+
 
