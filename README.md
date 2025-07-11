@@ -8,6 +8,7 @@
 
 |날짜|제목|학습 내용|
 |----|----|----|
+|250709 - |[25년 하계 LLM 강화학습](https://github.com/ssu-humane/Study/tree/main/25%EB%85%84%20%ED%95%98%EA%B3%84%20LLM%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)|[연구생 전체] LLM 강화학습 논문|
 |241227 - 250228|[25년 동계 언어모델 입문](https://github.com/ssu-humane/Study/tree/main/25%EB%85%84%20%EB%8F%99%EA%B3%84%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%20%EC%9E%85%EB%AC%B8)|[동계 인턴생] Stanford CS 324|
 |240701 - 240830|[24년 하계 허깅페이스 입문](https://github.com/ssu-humane/Study/tree/main/24%EB%85%84%20%ED%95%98%EA%B3%84%20%ED%97%88%EA%B9%85%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9E%85%EB%AC%B8)|[하계 인턴생] 트랜스포머를 활용한 자연어 처리|
 |240701 - 240830|[24년 하계 자연어처리 입문 2](https://github.com/ssu-humane/Study/tree/main/24%EB%85%84%20%ED%95%98%EA%B3%84%20%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%20%EC%9E%85%EB%AC%B8%202)|[하계 인턴생] 파이토치로 배우는 자연어 처리|
